@@ -1,0 +1,6 @@
+1.Python must be installed in your PC
+2.Install the following packages
+  OpenCV -> Command
+  pip install opencv-contrib-python
+  Caer->Command
+  pip install caer
